@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Kayla538
-- 👀 I’m interested in ... Learning how to code 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Participated in the Falcon Hackathon hosted by Lablab.ai, where I contributed to UX wireframe design using Figma, an innovative educational platform. I helped build a responsive and user-friendly website that enhanced the learning experience. Our project was recognized for its innovative approach and user-centric design. This experience strengthened my skills in web development, teamwork, and problem-solving.
 
-<!---
-Kayla538/Kayla538 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
